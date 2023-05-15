@@ -28,7 +28,7 @@
 <p>
   <img  align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="30px">&nbsp;<b>Herramientas</b>
 </p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablomediero&show_icons=true&locale=es&layout=compact&theme=chartreuse-light" alt="ovi" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablomediero&langs_count=6&layout=compact" alt="Estadísticas" /></p>
 <p>
 <br><br>
 <p align="center">
