@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hola! Soy Pablo Mediero  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Android Junior Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 <p align="center">
   <em>
