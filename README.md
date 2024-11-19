@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Edad-22-red" />
   <img src="https://img.shields.io/badge/Focus-Mobile%20Developer-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Spain-success" />
 </p>
@@ -24,7 +23,7 @@
 
 <p align="center">
   <em>
-   Soy Técnico Superior de Desarrollo web y Desarrollo de Aplicaciones Multiplataforma <br> sumando experiencia y conocimientos en campos de la programación de software, destaco <br> mi interés sobre todo lo relacionado con las tecnologías y el área mobile.
+Me encuentro en constante búsqueda de desafíos que me permitan aplicar y sumar mis conocimientos. Comprometido con la innovación, busco oportunidades para sumar valor y destacar en el dinámico panorama tecnológico.
   </em> 
 </p>
 <picture> 
